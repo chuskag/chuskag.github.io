@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chuskag.github.io/sitemap.html.gz
+Sitemap: https://chuskag.github.io/app/sitemap.html.gz
+Sitemap: https://chuskag.github.io/assets/sitemap.html.gz
+Sitemap: https://chuskag.github.io/css/sitemap.html.gz
+Sitemap: https://chuskag.github.io/includes/sitemap.html.gz
+Sitemap: https://chuskag.github.io/item/sitemap.html.gz
+Sitemap: https://chuskag.github.io/src/sitemap.html.gz
